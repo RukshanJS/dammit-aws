@@ -6,3 +6,6 @@
 
 Only execute these with an authenticated AWS IAM user AND if you know what you are doing!
 Otherwise you'll loose a lot of important data.
+
+## Development
+This project is under 🚧 active development 🚧
